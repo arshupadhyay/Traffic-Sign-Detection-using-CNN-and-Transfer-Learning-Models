@@ -1,4 +1,4 @@
-# Traffic Sign Detection with Transfer Learning Models
+# Traffic Sign Detection with Transfer Learning Models and CNN
 
 ## Overview
 
